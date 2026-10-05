@@ -1,6 +1,7 @@
 # BestReduce: Optimized Parallel Reduction for Regular and Irregular Segments on GPU (DATA AND RESULTS)
 
 ---
+
 > **This repository contains the experimental data, results, and materials used in the BestReduce paper.**
 >
 >  **The BestReduce source code is maintained in a separate repository:**\
@@ -15,6 +16,18 @@ The BestReduce implementation is available in the [BestReduce source code reposi
 👉 **[Go to the BestReduce source-code repository](https://github.com/MichelBC/bestReduce.git)**
 
 > **This repository focuses specifically on the experimental data and results.**
+
+---
+
+# Open access paper
+
+The paper is **open access and freely available to everyone**.
+
+**[Optimized Parallel Reduction for Regular and Irregular Segments on GPU](https://onlinelibrary.wiley.com/doi/full/10.1002/cpe.70715)**
+
+👉 **[Read the full paper](https://onlinelibrary.wiley.com/doi/full/10.1002/cpe.70715)**
+
+The paper presents **BestReduce**, an optimized GPU implementation for parallel reduction on both regular and irregular segments, with a focus on efficient CUDA execution and performance optimization.
 
 # Citation
 
